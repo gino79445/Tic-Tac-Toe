@@ -13,7 +13,7 @@ Tic-Tac-Toe便可以採取此演算法
 
 <img src="https://github.com/gino79445/Tic-Tac-Toe/blob/main/image.png?raw=true" style="width:200px" />
 
-**選擇與先功擊(O)或先防守(X)**
+**選擇先功擊(O)或先防守(X)**
 
 
 <img src="https://github.com/gino79445/Tic-Tac-Toe/blob/main/choice.png?raw=true" style="width:200px" />
